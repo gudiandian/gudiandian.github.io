@@ -37,18 +37,18 @@
   </entry>
   
   <entry>
-    <title>Experiences</title>
-    <link href="http://example.com/2020/12/01/Experiences/"/>
-    <id>http://example.com/2020/12/01/Experiences/</id>
+    <title>Publications</title>
+    <link href="http://example.com/2020/12/01/Publications/"/>
+    <id>http://example.com/2020/12/01/Publications/</id>
     <published>2020-12-01T06:06:31.000Z</published>
-    <updated>2020-12-01T08:11:55.874Z</updated>
+    <updated>2020-12-02T04:13:01.767Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Experiences"><a href="#Experiences" class="headerlink" title="Experiences"></a>Experiences</h1><p><font size=5.5><strong>Teaching Assistant</strong></font></p><ul><li>Software Engineering, Peking University (Spring 2020, Fall 2020).</li></ul><p><font size=5.5><strong>Internship</strong></font></p><ul><li>Engineering Practicum Intern, Google Beijing, July 2017 - September 2017.</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14.<br>[<a href="/attaches/cikm19/p2077-guA.pdf">PDF</a>] [<a href="/attaches/cikm19/CIKM2019Gu_slides.pdf">Slides</a>] [<a href="/attaches/cikm19/CIKM2019Gu_poster.pdf">Poster</a>] </p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)<br>[<a href="/attaches/tweb20/3395050.pdf">PDF</a>]</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Experiences&quot;&gt;&lt;a href=&quot;#Experiences&quot; class=&quot;headerlink&quot; title=&quot;Experiences&quot;&gt;&lt;/a&gt;Experiences&lt;/h1&gt;&lt;p&gt;&lt;font size=5.5&gt;&lt;strong&gt;Teaching As</summary>
+    <summary type="html">&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Roaming Through the Ca</summary>
       
     
     
@@ -57,18 +57,18 @@
   </entry>
   
   <entry>
-    <title>Publications</title>
-    <link href="http://example.com/2020/12/01/Publications/"/>
-    <id>http://example.com/2020/12/01/Publications/</id>
+    <title>Experiences</title>
+    <link href="http://example.com/2020/12/01/Experiences/"/>
+    <id>http://example.com/2020/12/01/Experiences/</id>
     <published>2020-12-01T06:06:30.000Z</published>
-    <updated>2020-12-01T08:12:30.778Z</updated>
+    <updated>2020-12-02T04:13:04.541Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14.</p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Experiences"><a href="#Experiences" class="headerlink" title="Experiences"></a>Experiences</h1><p><font size=5.5><strong>Teaching Assistant</strong></font></p><ul><li><a href="https://www.icourse163.org/course/pku-1003177002">Software Engineering</a>, Peking University (Spring 2020, Fall 2020).</li></ul><p><font size=5.5><strong>Internship</strong></font></p><ul><li>Engineering Practicum Intern, Google Beijing, July 2017 - September 2017.</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Roaming Through the Ca</summary>
+    <summary type="html">&lt;h1 id=&quot;Experiences&quot;&gt;&lt;a href=&quot;#Experiences&quot; class=&quot;headerlink&quot; title=&quot;Experiences&quot;&gt;&lt;/a&gt;Experiences&lt;/h1&gt;&lt;p&gt;&lt;font size=5.5&gt;&lt;strong&gt;Teaching As</summary>
       
     
     
