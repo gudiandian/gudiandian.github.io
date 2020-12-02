@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/12/01/Publications/</loc>
+    <loc>http://gudiandian.github.io/2020/12/01/Publications/</loc>
     
     <lastmod>2020-12-02</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/01/About/</loc>
+    <loc>http://gudiandian.github.io/2020/12/01/About/</loc>
     
     <lastmod>2020-12-02</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/01/Experiences/</loc>
+    <loc>http://gudiandian.github.io/2020/12/01/Experiences/</loc>
     
     <lastmod>2020-12-02</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/01/hello-world/</loc>
+    <loc>http://gudiandian.github.io/2020/12/01/hello-world/</loc>
     
     <lastmod>2020-12-01</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://gudiandian.github.io/</loc>
     <lastmod>2020-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

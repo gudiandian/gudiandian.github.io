@@ -3,11 +3,11 @@
   <title>gudiandian</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://gudiandian.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://gudiandian.github.io/"/>
   <updated>2020-12-02T07:22:51.864Z</updated>
-  <id>http://example.com/</id>
+  <id>http://gudiandian.github.io/</id>
   
   <author>
     <name>Diandian Gu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About</title>
-    <link href="http://example.com/2020/12/01/About/"/>
-    <id>http://example.com/2020/12/01/About/</id>
+    <link href="http://gudiandian.github.io/2020/12/01/About/"/>
+    <id>http://gudiandian.github.io/2020/12/01/About/</id>
     <published>2020-12-01T06:06:32.000Z</published>
     <updated>2020-12-02T07:22:51.864Z</updated>
     
@@ -38,17 +38,17 @@
   
   <entry>
     <title>Publications</title>
-    <link href="http://example.com/2020/12/01/Publications/"/>
-    <id>http://example.com/2020/12/01/Publications/</id>
+    <link href="http://gudiandian.github.io/2020/12/01/Publications/"/>
+    <id>http://gudiandian.github.io/2020/12/01/Publications/</id>
     <published>2020-12-01T06:06:31.000Z</published>
-    <updated>2020-12-02T07:27:30.234Z</updated>
+    <updated>2020-12-02T10:38:27.757Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14 (June 2020).<br>[<a href="/attaches/tweb20/3395050.pdf">PDF</a>]</p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)<br>[<a href="/attaches/cikm19/p2077-guA.pdf">PDF</a>] [<a href="/attaches/cikm19/CIKM2019Gu_slides.pdf">Slides</a>] [<a href="/attaches/cikm19/CIKM2019Gu_poster.pdf">Poster</a>] </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><font size=5.5><strong>Conference Publications</strong></font></p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)<br>[<a href="/attaches/cikm19/p2077-guA.pdf">PDF</a>] [<a href="/attaches/cikm19/CIKM2019Gu_slides.pdf">Slides</a>] [<a href="/attaches/cikm19/CIKM2019Gu_poster.pdf">Poster</a>] </p><p><font size=5.5><strong>Journal Publications</strong></font></p><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14 (June 2020).<br>[<a href="/attaches/tweb20/3395050.pdf">PDF</a>]</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Roaming Through the Ca</summary>
+    <summary type="html">&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;font size=5.5&gt;&lt;strong&gt;Confere</summary>
       
     
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>Experiences</title>
-    <link href="http://example.com/2020/12/01/Experiences/"/>
-    <id>http://example.com/2020/12/01/Experiences/</id>
+    <link href="http://gudiandian.github.io/2020/12/01/Experiences/"/>
+    <id>http://gudiandian.github.io/2020/12/01/Experiences/</id>
     <published>2020-12-01T06:06:30.000Z</published>
     <updated>2020-12-02T04:13:04.541Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/01/hello-world/"/>
-    <id>http://example.com/2020/12/01/hello-world/</id>
+    <link href="http://gudiandian.github.io/2020/12/01/hello-world/"/>
+    <id>http://gudiandian.github.io/2020/12/01/hello-world/</id>
     <published>2020-12-01T04:41:13.830Z</published>
     <updated>2020-12-01T04:41:13.830Z</updated>
     
