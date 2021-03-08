@@ -6,7 +6,7 @@
   <link href="http://gudiandian.github.io/atom.xml" rel="self"/>
   
   <link href="http://gudiandian.github.io/"/>
-  <updated>2021-03-01T04:38:05.161Z</updated>
+  <updated>2021-03-08T05:47:27.870Z</updated>
   <id>http://gudiandian.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://gudiandian.github.io/2020/12/01/About/"/>
     <id>http://gudiandian.github.io/2020/12/01/About/</id>
     <published>2020-12-01T06:06:32.000Z</published>
-    <updated>2021-03-01T04:38:05.161Z</updated>
+    <updated>2021-03-08T05:47:27.870Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>I am Diandian Gu (谷典典), a first-year CS PhD student at <a href="http://eecs.pku.edu.cn/">School of Electronics Engineering and Computer Science</a>, <a href="http://www.pku.edu.cn/">Peking University (PKU)</a>. I am currently advised by <a href="http://www.liuxuanzhe.com/">Prof. Xuanzhe Liu</a>. Previously, I received my CS Bachelor’s degree in Peking University, also advised by Prof. Xuanzhe Liu.</p><p>My research mainly focuses on machine learning systems, distributed deep learning and cluster resource management. I am also interested in data mining and software engineering.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>I am Diandian Gu (谷典典), a first-year CS PhD student at <a href="http://eecs.pku.edu.cn/">School of Electronics Engineering and Computer Science</a>, <a href="http://www.pku.edu.cn/">Peking University (PKU)</a>. I am currently advised by <a href="http://www.liuxuanzhe.com/">Prof. Xuanzhe Liu</a>. Previously, I received my CS Bachelor’s degree in Peking University, also advised by Prof. Xuanzhe Liu.</p><p>My research mainly focuses on machine learning systems, distributed deep learning, and cluster resource management. I am also interested in data mining and software engineering.</p>]]></content>
     
     
       
@@ -41,9 +41,9 @@
     <link href="http://gudiandian.github.io/2020/12/01/Publications/"/>
     <id>http://gudiandian.github.io/2020/12/01/Publications/</id>
     <published>2020-12-01T06:06:31.000Z</published>
-    <updated>2020-12-02T10:38:27.757Z</updated>
+    <updated>2021-03-08T05:48:02.623Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><font size=5.5><strong>Conference Publications</strong></font></p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)<br>[<a href="/attaches/cikm19/p2077-guA.pdf">PDF</a>] [<a href="/attaches/cikm19/CIKM2019Gu_slides.pdf">Slides</a>] [<a href="/attaches/cikm19/CIKM2019Gu_poster.pdf">Poster</a>] </p><p><font size=5.5><strong>Journal Publications</strong></font></p><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14 (June 2020).<br>[<a href="/attaches/tweb20/3395050.pdf">PDF</a>]</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><p><font size=5.5><strong>Conference Publications</strong></font></p><p><strong>LinkRadar: Assist the Analysis of Inter-app Page Links via Transfer Learning</strong><br><strong>Diandian Gu</strong>, Ziniu Hu, Shangchen Du, Yun Ma<br>28th Conference on Information and Knowledge Management (<strong>CIKM’19</strong>)<br>[<a href="/attaches/cikm19/p2077-guA.pdf">PDF</a>] [<a href="/attaches/cikm19/CIKM2019Gu_slides.pdf">Slides</a>] [<a href="/attaches/cikm19/CIKM2019Gu_poster.pdf">Poster</a>] </p><p><font size=5.5><strong>Journal Publications</strong></font></p><p><strong>Roaming Through the Castle Tunnels: An Empirical Analysis of Inter-app Navigation of Android Apps</strong><br>Yun Ma, Ziniu Hu, <strong>Diandian Gu</strong>, Li Zhou, Qiaozhu Mei, Gang Huang and Xuanzhe Liu<br>ACM Transactions on the Web (<strong>TWEB</strong>), Vol. 14, No.3, Article 14 (June 2020)<br>[<a href="/attaches/tweb20/3395050.pdf">PDF</a>]</p>]]></content>
     
     
       
