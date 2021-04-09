@@ -491,6 +491,13 @@ blockquote p {
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
 }
+.page article img {
+  position: relative;
+  transition: all 1s;
+}
+.page article img:hover {
+  transform: scale(1.8);
+}
 @media screen and (min-width: 66.67em) {
   #page_main {
     max-width: 1200px;
@@ -536,6 +543,11 @@ blockquote p {
   width: 100%;
   max-width: 110px;
   border-radius: 50%;
+  position: relative;
+  transition: all 1s;
+}
+.author-avatar img:hover {
+  transform: scale(1.5);
 }
 .author-discrip {
   display: table-cell;
