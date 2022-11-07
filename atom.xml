@@ -121,14 +121,16 @@
     <link href="http://gudiandian.github.io/2020/11/01/Life/"/>
     <id>http://gudiandian.github.io/2020/11/01/Life/</id>
     <published>2020-11-01T06:06:32.000Z</published>
-    <updated>2022-10-31T00:55:15.821Z</updated>
+    <updated>2022-11-07T06:57:41.986Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Life"><a href="#Life" class="headerlink" title="Life"></a>Life</h1><p>I am not only a researcher but also a dancer. I am interested in hiphop, jazz, and choreography dance. I am a member of the hiphop team of FL Crew.<br>Check out my dance videos and daily vlogs on <a href="https://space.bilibili.com/695824844/dynamic">bilibili</a>!</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Life"><a href="#Life" class="headerlink" title="Life"></a>Life</h1><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="4"; width="50%">        <center>                    <img style="border-radius: 0.3125em;"                     src="/img/FL.JPG" width="95%">                </center>            </td>    <td>I am not only a researcher but also a dancer. I am interested in hiphop, jazz, and choreography dance.     </td>  </tr>  <tr>    <td>I am a member of the hiphop team of FL Crew.</td>  </tr>  <tr>    <td>Check out my dance videos and daily vlogs on <a href="https://space.bilibili.com/695824844/dynamic" target="_blank">[bilibili]</a>!</td>  </tr></table><br>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Life&quot;&gt;&lt;a href=&quot;#Life&quot; class=&quot;headerlink&quot; title=&quot;Life&quot;&gt;&lt;/a&gt;Life&lt;/h1&gt;&lt;p&gt;I am not only a researcher but also a dancer. I am interested </summary>
+    <summary type="html">&lt;h1 id=&quot;Life&quot;&gt;&lt;a href=&quot;#Life&quot; class=&quot;headerlink&quot; title=&quot;Life&quot;&gt;&lt;/a&gt;Life&lt;/h1&gt;&lt;table style=&quot;margin-left: 0cm; margin-right: auto;&quot;&gt;
+  &lt;tr&gt;
+    </summary>
       
     
     
