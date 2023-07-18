@@ -6,7 +6,7 @@
   <link href="http://gudiandian.github.io/atom.xml" rel="self"/>
   
   <link href="http://gudiandian.github.io/"/>
-  <updated>2023-04-25T03:40:11.143Z</updated>
+  <updated>2023-07-11T04:15:17.240Z</updated>
   <id>http://gudiandian.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://gudiandian.github.io/2020/12/01/About/"/>
     <id>http://gudiandian.github.io/2020/12/01/About/</id>
     <published>2020-12-01T06:06:32.000Z</published>
-    <updated>2023-04-25T03:40:11.143Z</updated>
+    <updated>2023-07-11T04:15:17.240Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>I am Diandian Gu (<strong>谷 典典</strong>), a thrid-year CS Ph.D. candidate at <a href="https://github.com/pkusys">Computer Systems Research Group</a>, <a href="http://english.pku.edu.cn/">Peking University</a>. I am currently advised by <a href="http://www.liuxuanzhe.com/">Prof. Xuanzhe Liu</a> and <a href="https://xinjin.github.io/">Prof. Xin Jin</a>. Previously, I received my B.S. in Computer Science from Peking University.</p><p>My research mainly focuses on systems for machine learning, distributed deep learning, and cluster resource management. I am also interested in software engineering.<br><br></p><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>I am Diandian Gu (<strong>谷 典典</strong>), a fourth-year CS Ph.D. candidate at <a href="https://github.com/pkusys">Computer Systems Research Group</a>, <a href="http://english.pku.edu.cn/">Peking University</a>. I am currently advised by <a href="http://www.liuxuanzhe.com/">Prof. Xuanzhe Liu</a> and <a href="https://xinjin.github.io/">Prof. Xin Jin</a>. Previously, I received my B.S. in Computer Science from Peking University.</p><p>My research mainly focuses on systems for machine learning, distributed deep learning, and cluster resource management. I am also interested in software engineering.<br><br></p><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h1&gt;&lt;p&gt;I am Diandian Gu (&lt;strong&gt;谷 典典&lt;/strong&gt;), a th</summary>
+    <summary type="html">&lt;h1 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h1&gt;&lt;p&gt;I am Diandian Gu (&lt;strong&gt;谷 典典&lt;/strong&gt;), a fo</summary>
       
     
     
@@ -61,9 +61,9 @@
     <link href="http://gudiandian.github.io/2020/12/01/Experiences/"/>
     <id>http://gudiandian.github.io/2020/12/01/Experiences/</id>
     <published>2020-12-01T06:06:30.000Z</published>
-    <updated>2023-03-01T07:46:03.706Z</updated>
+    <updated>2023-07-07T08:54:45.833Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Experiences"><a href="#Experiences" class="headerlink" title="Experiences"></a>Experiences</h1><p><font size=5><strong>Internship</strong></font></p><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="2"; width="30%">        <center>                    <img style="border-radius: 0.3125em;"                     src="/img/msra.png" width="80%">                </center>            </td>    <td><b>Research Intern @ <a href="https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/" target="_blank">System Research Group</a>, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a></b></td>  </tr>  <tr>    <td><ul><li>April 2021 - March 2022</li>        <li>Mentor: <a href="https://www.microsoft.com/en-us/research/people/yixio/" target="_blank">Yifan Xiong</a> </li></ul></td>  </tr></table><br><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="2"; width="30%">        <center>                    <img style="border-radius: 0.3125em;"                     src="/img/google.jpg" width="100%">                </center>            </td>    <td><b>Engineering Practicum Intern @ Google Beijing</b></td>  </tr>  <tr>    <td><ul><li>July 2018 - September 2018</li>        <li>Host: Lei Zhang</li></ul></td>  </tr></table><p><font size=5><strong>Teaching Experience</strong></font></p><ul><li><p>Undergraduate Student Instructor, EECS, Peking University (Sep 2020 - now).</p></li><li><p>Teaching Assistant, <a href="https://www.icourse163.org/course/pku-1003177002">Software Engineering</a> (undergraduate), Peking University (Spring 2020, Fall 2020).<br><font size=3; color=Grey> The course was awarded as National First-class Undergraduate Courses (国家一流本科课程) by Ministry of Education of P.R.C.</font></p></li><li><p>Teaching Assistant, Distributed Machine Learning Theory and System (graduate), Peking University (Fall 2021).</p></li></ul><br><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="Experiences"><a href="#Experiences" class="headerlink" title="Experiences"></a>Experiences</h1><p><font size=5><strong>Internship</strong></font></p><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="2"; width="30%">      <center>            <img style="border-radius: 0.3125em;"             src="/img/ailab.png" width="80%">        </center>      </td>    <td><b>Research Intern @ <a href="https://shlab.org.cn/pc/home" target="_blank">Shanghai AI Laboratory</a></b></td>  </tr>  <tr>    <td><ul><li>July 2023 - now</li>      <li>Mentor: Peng Sun</li></ul></td>  </tr></table><br><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="2"; width="30%">        <center>                    <img style="border-radius: 0.3125em;"                     src="/img/msra.png" width="80%">                </center>            </td>    <td><b>Research Intern @ <a href="https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/" target="_blank">System Research Group</a>, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a></b></td>  </tr>  <tr>    <td><ul><li>April 2021 - March 2022</li>        <li>Mentor: <a href="https://www.microsoft.com/en-us/research/people/yixio/" target="_blank">Yifan Xiong</a> </li></ul></td>  </tr></table><br><table style="margin-left: 0cm; margin-right: auto;">  <tr>    <td rowspan="2"; width="30%">        <center>                    <img style="border-radius: 0.3125em;"                     src="/img/google.jpg" width="100%">                </center>            </td>    <td><b>Engineering Practicum Intern @ Google Beijing</b></td>  </tr>  <tr>    <td><ul><li>July 2018 - September 2018</li>        <li>Host: Lei Zhang</li></ul></td>  </tr></table><p><font size=5><strong>Teaching Experience</strong></font></p><ul><li><p>Undergraduate Student Instructor, EECS, Peking University (Sep 2020 - now).</p></li><li><p>Teaching Assistant, <a href="https://www.icourse163.org/course/pku-1003177002">Software Engineering</a> (undergraduate), Peking University (Spring 2020, Fall 2020).<br><font size=3; color=Grey> The course was awarded as National First-class Undergraduate Courses (国家一流本科课程) by Ministry of Education of P.R.C.</font></p></li><li><p>Teaching Assistant, Distributed Machine Learning Theory and System (graduate), Peking University (Fall 2021).</p></li></ul><br><hr>]]></content>
     
     
       
