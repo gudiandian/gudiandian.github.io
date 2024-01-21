@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gudiandian.github.io/2020/11/10/Service/</loc>
+    
+    <lastmod>2024-01-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gudiandian.github.io/2020/12/01/About/</loc>
+    
+    <lastmod>2024-01-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gudiandian.github.io/2020/11/01/Life/</loc>
     
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-12-09</lastmod>
     
   </url>
   
   <url>
     <loc>http://gudiandian.github.io/2020/12/01/Publications/</loc>
     
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-12-09</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>http://gudiandian.github.io/2020/12/01/Experiences/</loc>
     
     <lastmod>2023-09-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gudiandian.github.io/2020/11/10/Service/</loc>
-    
-    <lastmod>2023-09-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gudiandian.github.io/2020/12/01/About/</loc>
-    
-    <lastmod>2023-07-11</lastmod>
     
   </url>
   
@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://gudiandian.github.io/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2024-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
